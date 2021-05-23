@@ -11,3 +11,7 @@ winter heated external shell with defrost circuit
 
 
 external shell water-resistant(proof)
+
+
+OT
+https://github.com/c4pt000/shazam_for_neighborhood_audio_detection_high_gain_mic_mesh
