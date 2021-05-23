@@ -8,3 +8,6 @@ buildings act as nodes to detect loud audio after hours for regular patrol every
 also send hidden signal of device shock or tamper or microphone mute or microphone damper to location of effected device via gps
 
 winter heated external shell with defrost circuit
+
+
+external shell water-resistant(proof)
